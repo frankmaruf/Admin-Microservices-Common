@@ -1,7 +1,6 @@
 <?php
 
 namespace Microservices;
-use App\Models\Role;
 
 class User
 {

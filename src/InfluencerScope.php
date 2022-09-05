@@ -2,7 +2,6 @@
 
 namespace Microservices;
 
-use App\Services\UserService;
 use Closure;
 use Illuminate\Http\Request;
 
