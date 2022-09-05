@@ -1,5 +1,5 @@
 {
-    "name": "frank/common",
+    "name": "frankmaruf/common",
     "description": "This is a package for the Microservices",
     "type": "library",
     "license": "MIT",

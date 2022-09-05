@@ -3,6 +3,11 @@
     "description": "This is a package for the Microservices",
     "type": "library",
     "license": "MIT",
+	"autoload": {
+        "psr-4": {
+            "Frank\\Common\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "frankmaruf",
